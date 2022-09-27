@@ -950,11 +950,11 @@ footer .copyright{
     #contact-details{
         flex-direction: column;
     }
-    #contact-details .C-deatils{
+    #contact-details .C-details {
         width: 100%;
         margin-bottom: 30px;
     }
-    #contact-details{
+    #contact-details .map{
         width: 100%;
     }
     #form-details{
