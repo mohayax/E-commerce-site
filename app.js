@@ -25,4 +25,4 @@ sampleImg.forEach((image, i) => image.addEventListener('click', function () {
 
 const product = document.querySelectorAll('.pro');
 
-product.forEach((pro) => pro.addEventListener('click', () => window.location.href="single.html"))
+product.forEach((pro) => pro.addEventListener('click', () => window.location.href="single.html"));
